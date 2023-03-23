@@ -14,6 +14,8 @@ I also enjoy participating in annual hackathons and developing my own side proje
 
 <b>Personal Projects</b>
 
+<p><a href = "https://github.com/rahulmedicharla/SmartBrowser">Smart Browser</a> - A voice activated personal assisant browser. Gives personalized answers based on use cases of academia, development, or assistant. Built using Django and SQL. </p>
+
 <p><a href = "https://github.com/rahulmedicharla/Bubble">Bubble</a> - A new mobile application that makes event organization between friends simple. This project shows my deep understanding of building dynamic applications using frameworks such as React and utilizing cloud features through Google Cloud Platform to achieve a multi user platform with real-time changing data.</p>
 
 <p><a href = "https://github.com/rahulmedicharla/saffireFinal">Saffire</a> - A web application meant to keep student motivated during the pandemic. This project shows my initial experimentation of creating a dynamic web application</p>
