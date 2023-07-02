@@ -1,4 +1,6 @@
 ### About Me
+Portfolio: https://rahul-medicharla-portfolio.web.app/
+
 Hey there 👋 My name is Rahul Medicharla, and I'm a student at the Ohio State University class of 2025.
 
 I enjoy creating new products using new technologies, learning more about the field of computer science, and applying learned knowledge.   
