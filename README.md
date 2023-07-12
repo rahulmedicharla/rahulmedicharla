@@ -1,5 +1,5 @@
 ### About Me
-Portfolio: https://rahul-medicharla-portfolio.web.app/
+Portfolio: https://rmedicharla.com
 
 Hey there 👋 My name is Rahul Medicharla, and I'm a student at the Ohio State University class of 2025.
 
@@ -10,7 +10,7 @@ I also enjoy participating in annual hackathons and developing my own side proje
 ### Projects
 <b>Personal Projects</b>
 
-<p><a href = "https://github.com/rahulmedicharla/evolate">evolate</a> - evolate is a custom data structure developed to address the problem of efficieny in search algorithms. evolate uses a custom trained Neural Network to autmatically identify and switch data structure implementation to maximize efficieny for the user. Utilizing a custom multi modal Node object, evolate seamlessly switches between Linked List, Hash Maps, Tree Maps, and Sequence implementations. This shows my understanding of data structures, the advantages and disadvantages of them, and my growing interest in data science and utilizing powerful machine learning prediction and inferencing models.</p>
+<p><a href = "https://github.com/rahulmedicharla/evolate">evolate</a> - a custom data structure developed to address the problem of efficieny in search algorithms. evolate uses a custom trained Neural Network to autmatically identify and switch data structure implementations based on user behavioral patterns to maximize efficieny for the user. Utilizing a custom multi modal Node object, evolate seamlessly switches between Linked List, Hash Maps, Tree Maps, and Sequence implementations. This shows my understanding of data structures, the advantages and disadvantages of them, and my growing interest in data science and utilizing powerful machine learning prediction and inferencing models.</p>
 
 <p><a href = "https://github.com/rahulmedicharla/mood.ai">mood.ai</a> - A new way of capturing memories and moments into AI generated art. Simply upload a short video clip and the program will run numerous ML models to decompose the video into its essential componenets. It then uses ChatGPT and Dalle-2 api's to recompose the moment in an artisitic manner. The repo linked is for a custom flask API I put on Google Cloud Run to allow the program to beu used. This shows my deep understanding of python and its object orientated style, utilizing ML models to parse important information, mutlithreading to improve efficiency, and using Docker to create and deploy a custom api<p>
 
